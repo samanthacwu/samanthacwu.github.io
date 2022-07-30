@@ -1147,8 +1147,8 @@ button {
 		/* We can change the background image here. */
 		/*background-image: url("../../images/bg.jpg");*/
 		background-image: url("../../images/colorfulgradient1.jpeg");
-		/*background-position: center;*/
-		background-position: bottom;
+		background-position: center;
+		/* background-position: bottom; */
 		/*background-size: cover;*/
 		background-size: contain;
 		background-repeat: no-repeat;
