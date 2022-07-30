@@ -1147,7 +1147,8 @@ button {
 		/* We can change the background image here. */
 		/*background-image: url("../../images/bg.jpg");*/
 		background-image: url("../../images/colorfulgradient1.jpeg");
-		background-position: center;
+		/*background-position: center;*/
+		background-position: bottom;
 		background-size: cover;
 		background-repeat: no-repeat;
 		/* This sets the order of rendering. This will sit behind all elements with z-index > 1 */
