@@ -650,6 +650,7 @@ input[type="radio"] + label:before {
 	.image img {
 		border-radius: 4px;
 		display: block;
+		max-width: 550px;
 		width: 100%;
 		height: auto;
 	}
