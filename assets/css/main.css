@@ -652,6 +652,10 @@ input[type="radio"] + label:before {
 		display: block;
 	}
 
+	.image.no-overlay:before {
+		display: none;
+	}
+
 	.image.left, .image.right {
 		max-width: 40%;
 	}
